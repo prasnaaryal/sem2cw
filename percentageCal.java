@@ -14,7 +14,7 @@ public class percentageCal {
 
         if (percent >=70){
             JOptionPane.showMessageDialog( null, "You passed with 1st class   " +percent);
-        }else if(percent >= 59){
+        }else if(percent >= 68){
             JOptionPane.showMessageDialog( null, "You passed with upper second class   " +percent);
         }else if(percent >= 49){
             JOptionPane.showMessageDialog( null, "You passed with second class   " +percent);
